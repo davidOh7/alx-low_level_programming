@@ -3,7 +3,7 @@
  * main - Task 6 A program that prints sizes
  * Return: 0 (Sucess)
  */
-it main(void)
+int main(void)
 {
 	char a;
 	int b;
